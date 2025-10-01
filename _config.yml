@@ -23,7 +23,7 @@ repository               : "chenyi-edward.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/headshot.png"
+  avatar           : "headshot.png"
   name             : "Yi Chen (Edward)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Information Systems"
