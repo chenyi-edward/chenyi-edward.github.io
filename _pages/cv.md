@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information Systems, Nanyang Business School, Nanyang Technological University, 2019
+* M.S. in Economics, University of International Business and Economics, 2014
+* B.S. in Management, University of International Business and Economics, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019-present
+  * Shanghai International University
+  * Assistant Professor
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Java/R/Stata/Sas
+  * Application of Machine Learning
+* Data Analysis
+  * Statistics
+  * Econometrics
+  * Data Visualization
+  * Textual Analysis
+* Research Method
+* Management Theory
 
 Publications
 ======
@@ -47,11 +40,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
@@ -59,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Served as an anonymous reviewer for multiple top-tier journals (e.g., MISQ, MS, JMS, & I&M) and conferences.
