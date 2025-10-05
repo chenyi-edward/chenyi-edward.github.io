@@ -30,8 +30,6 @@ Skills
   * Econometrics
   * Data Mining & Visualization
   * Unstructured Data Analysis
-* Research Method
-* Management Theory
 
 Publications
 ======
