@@ -24,13 +24,13 @@ Work experience
 Skills
 ======
 * Programming
-  * Java/R/Stata/Sas
-  * Application of Machine Learning
+  * R & Java
+  * Machine Learning Application
 * Data Analysis
   * Statistics
   * Econometrics
-  * Data Visualization
-  * Textual Analysis
+  * Data Mining & Visualization
+  * Unstructured Data Analysis
 * Research Method
 * Management Theory
 
