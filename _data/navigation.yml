@@ -12,18 +12,18 @@ main:
 
   #  - title: "Talks"
   #   url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Publications"
-    url: /publications/      
-
+    url: /publications/
+    
+  - title: "Teaching"
+    url: /teaching/ 
+    
   - title: "CV"
     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
