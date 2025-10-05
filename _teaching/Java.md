@@ -3,7 +3,7 @@ title: "Java Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Java
-venue: "Shanghai International University, School of Business and Management"
+venue: "Shanghai International Studies University, School of Business and Management"
 date: 2021-09-01
 location: "Shanghai, China"
 ---
