@@ -3,7 +3,7 @@ title: "Big Data Analytics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BDA
-venue: "Shanghai International University, School of Business and Management"
+venue: "Shanghai International Studies University, School of Business and Management"
 date: 2025-03-01
 location: "Shanghai, China"
 ---
