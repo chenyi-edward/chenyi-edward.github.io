@@ -3,7 +3,7 @@ title: "Programming and Data Analysis (STATA & R)"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/PDA
-venue: "Shanghai International University, School of Business and Management"
+venue: "Shanghai International Studies University, School of Business and Management"
 date: 2024-03-01
 location: "Shanghai, China"
 ---
