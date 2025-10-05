@@ -3,7 +3,7 @@ title: "Survey Research Methods"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/SRM
-venue: "Shanghai International University, School of Business and Management"
+venue: "Shanghai International Studies University, School of Business and Management"
 date: 2021-09-01
 location: "Shanghai, China"
 ---
