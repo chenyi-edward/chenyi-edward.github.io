@@ -17,9 +17,8 @@ Education
 
 Work experience
 ======
-* Fall 2019-present
-  * Shanghai International University
-  * Assistant Professor
+* Fall 2019-present: Assistant Professor
+  * School of Business and Management, Shanghai International University
   
 Skills
 ======
