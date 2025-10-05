@@ -3,7 +3,7 @@ title: "Cognitive Internship"
 collection: teaching
 type: "Undergraduate summer project"
 permalink: /teaching/CI
-venue: "Shanghai International University, School of Business and Management"
+venue: "Shanghai International Studies University, School of Business and Management"
 date: 2024-09-01
 location: "Shanghai, China"
 ---
