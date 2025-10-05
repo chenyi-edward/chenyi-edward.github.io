@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am Dr. Yi Chen, an Assistant Professor at the [School of Business and Management](http://www.sbm.shisu.edu.cn/) at [Shanghai International Studies University (SISU)](http://www.shisu.edu.cn).
 
-My research sits at the dynamic intersection of Information Systems (IS), Organizational Behavior, and Data Science. I am driven by a passion to understand the intricate—and often counter-intuitive—ways that online interactions, digital platforms, social networks, and emerging technologies redefine individual performance and corporate strategy.
+My research sits at the dynamic intersection of Information Systems (IS), Organizational Behavior, and Data Science. I am driven by a passion to understand the intricate—and often counter-intuitive—ways that online interactions, digital platforms, social networks, and emerging technologies redefine individual behavior and corporate strategy.
 
 Key Research Areas
 ------
@@ -23,11 +23,11 @@ Key Research Areas
 **Selected publications**
 
 * <b>Chen Y.</b>, Boh W. F., & Mo J. (2024). "Different types of online social exchanges: Effects on online sellers’ sales performance." Information & Management. 61(6):104003
-* Wu X., <b>Chen Y.</b>, & Zhang N. (2023). "The Impact of Politeness in Bidding Descriptions on Hiring Decisions in Online Labor Markets." PACIS 2023 Proceedings. 74.
 * <b>Chen Y.</b>, Boh W. F., Wong S.-S., & Shao J. (2023). "Too Much of a Good Thing: Downsides of a Large Social Network and Moderating Effects of Political Skill." Management and Organization Review. 19(2):316-347
 * 马宝君, 宋逸兴, <b>陈怿</b>, & 张健. (2022). "社会责任报告美观度对企业债务融资成本的影响研究." 管理学报. 19(12):1855-1862+1873
-* <b>Chen Y.</b> (2019). "Impact of Heterogeneous Prior Contribution on Reciprocity in Online Sellers’ Community." ICIS 2019 Proceedings. 27.
 * Ni Y., <b>Chen Y.</b>, Ke H., & Ralescu D. A. (2018). "Models and algorithms for the orienteering problem in a fuzzy environment." International Journal of Fuzzy Systems. 20(3):861-876.
+* Wu X., <b>Chen Y.</b>, & Zhang N. (2023). "The Impact of Politeness in Bidding Descriptions on Hiring Decisions in Online Labor Markets." PACIS 2023 Proceedings. 74.
+* <b>Chen Y.</b> (2019). "Impact of Heterogeneous Prior Contribution on Reciprocity in Online Sellers’ Community." ICIS 2019 Proceedings. 27.
 
 **Working papers**
 
