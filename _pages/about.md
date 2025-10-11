@@ -22,12 +22,12 @@ Key Research Areas
 
 **Selected publications**
 
-* <b>Chen Y.</b>, Boh W. F., & Mo J. (2024). "Different types of online social exchanges: Effects on online sellers’ sales performance." Information & Management. 61(6):104003
-* <b>Chen Y.</b>, Boh W. F., Wong S.-S., & Shao J. (2023). "Too Much of a Good Thing: Downsides of a Large Social Network and Moderating Effects of Political Skill." Management and Organization Review. 19(2):316-347
-* 马宝君, 宋逸兴, <b>陈怿</b>, & 张健. (2022). "社会责任报告美观度对企业债务融资成本的影响研究." 管理学报. 19(12):1855-1862+1873
-* Ni Y., <b>Chen Y.</b>, Ke H., & Ralescu D. A. (2018). "Models and algorithms for the orienteering problem in a fuzzy environment." International Journal of Fuzzy Systems. 20(3):861-876.
-* Wu X., <b>Chen Y.</b>, & Zhang N. (2023). "The Impact of Politeness in Bidding Descriptions on Hiring Decisions in Online Labor Markets." PACIS 2023 Proceedings. 74.
-* <b>Chen Y.</b> (2019). "Impact of Heterogeneous Prior Contribution on Reciprocity in Online Sellers’ Community." ICIS 2019 Proceedings. 27.
+* <b>Chen, Y.</b>, Boh, W. F., & Mo, J. (2024). "Different types of online social exchanges: Effects on online sellers’ sales performance." <i>Information & Management.</i> 61(6):104003
+* <b>Chen, Y.</b>, Boh, W. F., Wong, S.-S., & Shao, J. (2023). "Too Much of a Good Thing: Downsides of a Large Social Network and Moderating Effects of Political Skill." <i>Management and Organization Review.</i> 19(2):316-347
+* Ma, B., Song, Y., <b>Chen, Y.,</b>, & Zhang, J. (2022). "The Impact of Social Responsibility Reports’ Aesthetics on Corporate Debt Cost." <i>Chinese Journal of Management.</i> 19(12):1855-1862+1873 <i>(in Chinese)</i>
+* Ni, Y., <b>Chen, Y.</b>, Ke, H., & Ralescu, D. A. (2018). "Models and algorithms for the orienteering problem in a fuzzy environment." <i>International Journal of Fuzzy Systems.</i> 20(3):861-876.
+* Wu, X., <b>Chen, Y.</b>, & Zhang, N. (2023). "The Impact of Politeness in Bidding Descriptions on Hiring Decisions in Online Labor Markets." <i>PACIS 2023 Proceedings.</i> 74.
+* <b>Chen, Y.</b> (2019). "Impact of Heterogeneous Prior Contribution on Reciprocity in Online Sellers’ Community." <i>ICIS 2019 Proceedings.</i> 27.
 
 **Working papers**
 
