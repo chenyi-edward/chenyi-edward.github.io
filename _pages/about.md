@@ -36,14 +36,18 @@ Key Research Areas
 * Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (Revise & Resubmit)
 * Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Revise & Resubmit)
 * Heterogeneous Impacts of GenAI on Designers' Creativity: Evidence from Online Gig Platforms. (Completed)
+* Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creators’ Collaboration. (completed)
 
 Teaching Interest
 ------
 My teaching philosophy emphasizes bridging rigorous theory with practical application, focusing on developing both analytical skills (e.g., quantitative research methods & programming language), managerial insights, and critical thinking. I instruct students in core Information Systems and Data Science topics, frequently integrating real-world case studies and hands-on software training to prepare them for the modern intelligent workplace.
 
 **Selected teaching experience**
+* Undergraduate Course:
 - Information Resource Management
 - Big Data Analytics (Rapidminer)
+- Java Programming
+- An Introduction to Information Technology
+* Postgraduate Course:
 - Programming and Data analysis (R & Stata)
 - Survey Research Methods
-- Java Programming
