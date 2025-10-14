@@ -42,12 +42,11 @@ Teaching Interest
 ------
 My teaching philosophy emphasizes bridging rigorous theory with practical application, focusing on developing both analytical skills (e.g., quantitative research methods & programming language), managerial insights, and critical thinking. I instruct students in core Information Systems and Data Science topics, frequently integrating real-world case studies and hands-on software training to prepare them for the modern intelligent workplace.
 
-**Selected teaching experience**
-Undergraduate Course:
+**Selected teaching experience (undergraduate)**
 - Information Resource Management
-- Big Data Analytics (Rapidminer)
+- Big Data Analytics
 - Java Programming
 - An Introduction to Information Technology
-Postgraduate Course:
+**Selected teaching experience (postgraduate)**
 - Programming and Data analysis (R & Stata)
 - Survey Research Methods
