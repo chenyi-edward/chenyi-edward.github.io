@@ -36,7 +36,7 @@ Key Research Areas
 * Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (Revise & Resubmit)
 * Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Revise & Resubmit)
 * Heterogeneous Impacts of GenAI on Designers' Creativity: Evidence from Online Gig Platforms. (Completed)
-* Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creators’ Collaboration. (completed)
+* Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creators’ Collaboration. (Completed)
 
 Teaching Interest
 ------
