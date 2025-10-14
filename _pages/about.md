@@ -47,6 +47,7 @@ My teaching philosophy emphasizes bridging rigorous theory with practical applic
 - Big Data Analytics
 - Java Programming
 - An Introduction to Information Technology
+
 **Selected teaching experience (postgraduate)**
 - Programming and Data analysis (R & Stata)
 - Survey Research Methods
