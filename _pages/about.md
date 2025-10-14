@@ -49,5 +49,5 @@ My teaching philosophy emphasizes bridging rigorous theory with practical applic
 - An Introduction to Information Technology
 
 **Selected teaching experience (postgraduate)**
-- Programming and Data analysis (R & Stata)
+- Programming and Data Analysis (R & Stata)
 - Survey Research Methods
