@@ -31,23 +31,24 @@ Key Research Areas
 
 **Working papers**
 
-* Impact of CEO Perceived Dominance on Corporate Financial Performance: An Empirical Study Based on Facial Feature Extraction by Deep Learning. (Accept)
-* The Empowerment Effect of Jury-based Content Moderation: Impact on User Stickiness on Social Media Platforms. (Revise & Resubmit)
-* Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (Revise & Resubmit)
-* Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Revise & Resubmit)
-* Heterogeneous Impacts of GenAI on Designers' Creativity: Evidence from Online Gig Platforms. (Completed)
-* Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creators’ Collaboration. (Completed)
+* Impact of CEO Perceived Dominance on Corporate Financial Performance: An Empirical Study Based on Facial Feature Extraction by Deep Learning. (forthcoming at <i>Financial Innovation</i>)
+* The Empowerment Effect of Jury-based Content Moderation: Impact on User Stickiness on Social Media Platforms. (under 3rd round of review)
+* Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (under Revise & Resubmit)
+* Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (under Revise & Resubmit)
+* Heterogeneous Impacts of GenAI on Designers' Creativity: Evidence from Online Gig Platforms. (in preparation for submission)
+* Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creators’ Collaboration. (in preparation for submission)
 
 Teaching Interest
 ------
 My teaching philosophy emphasizes bridging rigorous theory with practical application, focusing on developing both analytical skills (e.g., quantitative research methods & programming language), managerial insights, and critical thinking. I instruct students in core Information Systems and Data Science topics, frequently integrating real-world case studies and hands-on software training to prepare them for the modern intelligent workplace.
 
-**Selected teaching experience (undergraduate)**
+**Undergraduate-level teaching experience**
 - Information Resource Management
 - Big Data Analytics
 - Java Programming
+- Business Programming (R)
 - An Introduction to Information Technology
 
-**Selected teaching experience (postgraduate)**
+**Postgraduate-level teaching experience**
 - Programming and Data Analysis (R & Stata)
 - Survey Research Methods
