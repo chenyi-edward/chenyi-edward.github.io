@@ -26,17 +26,22 @@ Key Research Areas
 * <b>Chen, Y.</b>, Boh, W. F., Wong, S.-S., & Shao, J. (2023). "Too Much of a Good Thing: Downsides of a Large Social Network and Moderating Effects of Political Skill." <i>Management and Organization Review.</i> 19(2):316-347
 * Ma, B., Song, Y., <b>Chen, Y.,</b>, & Zhang, J. (2022). "The Impact of Social Responsibility Reports’ Aesthetics on Corporate Debt Cost." <i>Chinese Journal of Management.</i> 19(12):1855-1862+1873 <i>(in Chinese)</i>
 * Ni, Y., <b>Chen, Y.</b>, Ke, H., & Ralescu, D. A. (2018). "Models and algorithms for the orienteering problem in a fuzzy environment." <i>International Journal of Fuzzy Systems.</i> 20(3):861-876.
+* Impact of CEO Perceived Dominance on Corporate Financial Performance: An Empirical Study Based on Facial Feature Extraction by Deep Learning. (forthcoming at <i>Financial Innovation</i>)
 * Wu, X., <b>Chen, Y.</b>, & Zhang, N. (2023). "The Impact of Politeness in Bidding Descriptions on Hiring Decisions in Online Labor Markets." <i>PACIS 2023 Proceedings.</i> 74.
 * <b>Chen, Y.</b> (2019). "Impact of Heterogeneous Prior Contribution on Reciprocity in Online Sellers’ Community." <i>ICIS 2019 Proceedings.</i> 27.
 
-**Working papers**
+**Working papers & work-in-progress projects**
 
-* Impact of CEO Perceived Dominance on Corporate Financial Performance: An Empirical Study Based on Facial Feature Extraction by Deep Learning. (forthcoming at <i>Financial Innovation</i>)
-* The Empowerment Effect of Jury-based Content Moderation: Impact on User Stickiness on Social Media Platforms. (under 3rd round of review)
-* Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (under Revise & Resubmit)
-* Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (under Revise & Resubmit)
-* Heterogeneous Impacts of GenAI on Designers' Creativity: Evidence from Online Gig Platforms. (in preparation for submission)
-* Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creators’ Collaboration. (in preparation for submission)
+* The Empowerment Effect of Jury-based Content Moderation: Impact on User Stickiness on Social Media Platforms. (3rd round review)
+* Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (2nd round review)
+* Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Revise & Resubmit)
+* Heterogeneous Impacts of GenAI on Designers’ Creative Exploration: Evidence from Online Gig Platforms. (in preparation for submission)
+* Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creator Collaboration. (in preparation for submission)
+* Are Friends of Friends Better Collaborators? How Third-Party Ties Affect Online Influencer Collaboration. (in preparation for submission)
+* Empowering Users in Digital Crowding: Dual Impact of Dense Danmaku on User Engagement and Mitigating Effect of Display Control. (in preparation for submission)
+* Too Polite to be Professional? Contingent Impact of Politeness on Hiring Decisions in Online Labor Markets. (in preparation for submission)
+* From Outrage to Silence: How Uncivil Comments Promote and Inhibit User Engagement. (work-in-progress)
+* Standardisation vs Customisation: How Online Freelancers’ Bidding Strategy Affects Hiring Outcomes. (work-in-progress)
 
 Teaching Interest
 ------
@@ -46,9 +51,9 @@ My teaching philosophy emphasizes bridging rigorous theory with practical applic
 - Information Resource Management
 - Big Data Analytics
 - Java Programming
-- Business Programming (R)
+- Business Programming (R Language)
 - An Introduction to Information Technology
 
 **Postgraduate-level teaching experience**
-- Programming and Data Analysis (R & Stata)
+- Programming and Data Analysis
 - Survey Research Methods
