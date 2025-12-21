@@ -26,7 +26,7 @@ Key Research Areas
 * <b>Chen, Y.</b>, Boh, W. F., Wong, S.-S., & Shao, J. (2023). "Too Much of a Good Thing: Downsides of a Large Social Network and Moderating Effects of Political Skill." <i>Management and Organization Review.</i> 19(2):316-347
 * Ma, B., Song, Y., <b>Chen, Y.,</b>, & Zhang, J. (2022). "The Impact of Social Responsibility Reports’ Aesthetics on Corporate Debt Cost." <i>Chinese Journal of Management.</i> 19(12):1855-1862+1873 <i>(in Chinese)</i>
 * Ni, Y., <b>Chen, Y.</b>, Ke, H., & Ralescu, D. A. (2018). "Models and algorithms for the orienteering problem in a fuzzy environment." <i>International Journal of Fuzzy Systems.</i> 20(3):861-876.
-* Impact of CEO Perceived Dominance on Corporate Financial Performance: An Empirical Study Based on Facial Feature Extraction by Deep Learning. (forthcoming at <i>Financial Innovation</i>)
+* Ma, B., Zhou, L., <b>Chen, Y.,</b>, Mu, Y., & Zhang, J. "Impact of CEO Perceived Dominance on Corporate Financial Performance: An Empirical Study Based on Facial Feature Extraction by Deep Learning." <i>Financial Innovation.</i> forthcoming.
 * Wu, X., <b>Chen, Y.</b>, & Zhang, N. (2023). "The Impact of Politeness in Bidding Descriptions on Hiring Decisions in Online Labor Markets." <i>PACIS 2023 Proceedings.</i> 74.
 * <b>Chen, Y.</b> (2019). "Impact of Heterogeneous Prior Contribution on Reciprocity in Online Sellers’ Community." <i>ICIS 2019 Proceedings.</i> 27.
 
