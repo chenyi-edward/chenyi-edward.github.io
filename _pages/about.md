@@ -35,13 +35,13 @@ Key Research Areas
 * The Empowerment Effect of Jury-based Content Moderation: Impact on User Stickiness on Social Media Platforms. (3rd round review)
 * Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (2nd round review)
 * Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Revise & Resubmit)
-* Heterogeneous Impacts of GenAI on Designers’ Creative Exploration: Evidence from Online Gig Platforms. (in preparation for submission)
-* Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creator Collaboration. (in preparation for submission)
-* Are Friends of Friends Better Collaborators? How Third-Party Ties Affect Online Influencer Collaboration. (in preparation for submission)
-* Empowering Users in Digital Crowding: Dual Impact of Dense Danmaku on User Engagement and Mitigating Effect of Display Control. (in preparation for submission)
-* Too Polite to be Professional? Contingent Impact of Politeness on Hiring Decisions in Online Labor Markets. (in preparation for submission)
-* From Outrage to Silence: How Uncivil Comments Promote and Inhibit User Engagement. (work-in-progress)
-* Standardisation vs Customisation: How Online Freelancers’ Bidding Strategy Affects Hiring Outcomes. (work-in-progress)
+* Heterogeneous Impacts of GenAI on Designers’ Creative Exploration: Evidence from Online Gig Platforms. 
+* Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creator Collaboration. 
+* Are Friends of Friends Better Collaborators? How Third-Party Ties Affect Online Influencer Collaboration. 
+* Empowering Users in Digital Crowding: Dual Impact of Dense Danmaku on User Engagement and Mitigating Effect of Display Control. 
+* Too Polite to be Professional? Contingent Impact of Politeness on Hiring Decisions in Online Labor Markets. 
+* From Outrage to Silence: How Uncivil Comments Promote and Inhibit User Engagement. 
+* Standardisation vs Customisation: How Online Freelancers’ Bidding Strategy Affects Hiring Outcomes. 
 
 Teaching Interest
 ------
