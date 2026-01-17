@@ -35,7 +35,7 @@ Key Research Areas
 * The Empowerment Effect of Jury-based Content Moderation: Impact on User Stickiness on Social Media Platforms. (3rd round review)
 * Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (2nd round review)
 * Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Revise & Resubmit)
-* Heterogeneous Impacts of GenAI on Designers’ Creative Exploration: Evidence from Online Gig Platforms. 
+* Heterogeneous Impacts of GenAI on Designers’ Creative Exploration: Evidence from Online Gig Platforms. (Under Review) 
 * Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creator Collaboration. 
 * Are Friends of Friends Better Collaborators? How Third-Party Ties Affect Online Influencer Collaboration. 
 * Empowering Users in Digital Crowding: Dual Impact of Dense Danmaku on User Engagement and Mitigating Effect of Display Control. 
