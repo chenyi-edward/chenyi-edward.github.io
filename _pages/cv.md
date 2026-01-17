@@ -23,7 +23,7 @@ Work experience
 Skills
 ======
 * Programming
-  * R & Java
+  * R, SQL, Python, & Java
   * Machine Learning Application
 * Data Analysis
   * Statistics
