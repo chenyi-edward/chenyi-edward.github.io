@@ -14,11 +14,10 @@ My research sits at the dynamic intersection of Information Systems (IS), Manage
 Key Research Areas
 ------
 [My work](https://scholar.google.com/citations?user=cBipuy0AAAAJ&hl=en) is unified by a central, critical question: How do we navigate the complex human and economic paradoxes created by digital platforms and novel technologies? Specifically, I'm interested in the following research areas:
-- Online Interactions and Communities
-- Online Labor Markets and Gig Platforms
-- Social Networks and Social Media
-- Generative AI (GenAI) and Emerging Technology Impact
-- Information Systems (IS) Strategy and Digital Organizational Behaviors
+- Online Interactions and Social Networks
+- Social Media, E-commerce, and Online Labor Markets
+- Generative AI (GenAI), FinTech, and Emerging Technology
+- Information Systems (IS) Strategy and Digital Organization
 
 **Selected publications**
 
