@@ -23,6 +23,7 @@ Key Research Areas
 
 * <b>Chen, Y.</b>, Boh, W. F., & Mo, J. (2024). "Different types of online social exchanges: Effects on online sellers’ sales performance." <i>Information & Management.</i> 61(6):104003.
 * <b>Chen, Y.</b>, Boh, W. F., Wong, S.-S., & Shao, J. (2023). "Too Much of a Good Thing: Downsides of a Large Social Network and Moderating Effects of Political Skill." <i>Management and Organization Review.</i> 19(2):316-347.
+* Ma, B., Wen, X., <b>Chen, Y.</b>, Mu, Y., & Huang, Y. (2026). "The empowerment effect of jury-based content moderation: Impact on user stickiness on social media platforms." <i>Telematics and Informatics.</i> 106:102382.
 * Ma, B., Song, Y., <b>Chen, Y.</b>, & Zhang, J. (2022). "The Impact of Social Responsibility Reports’ Aesthetics on Corporate Debt Cost." <i>Chinese Journal of Management.</i> 19(12):1855-1862+1873. <i>(in Chinese)</i>
 * Ma, B., Zhou, L., <b>Chen, Y.</b>, Mu, Y., & Zhang, J. (2026). "Impact of CEO Perceived Dominance on Corporate Financial Performance: An Empirical Study Based on Facial Feature Extraction by Deep Learning." <i>Financial Innovation.</i> 12(1):56.
 * Ni, Y., <b>Chen, Y.</b>, Ke, H., & Ralescu, D. A. (2018). "Models and algorithms for the orienteering problem in a fuzzy environment." <i>International Journal of Fuzzy Systems.</i> 20(3):861-876.
@@ -31,8 +32,7 @@ Key Research Areas
 
 **Working papers & work-in-progress projects**
 
-* The Empowerment Effect of Jury-based Content Moderation: Impact on User Stickiness on Social Media Platforms. (3rd round review)
-* Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (2nd round review)
+* Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (Revise & Resubmit)
 * Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Revise & Resubmit)
 * Generative AI reshapes aesthetic exploration in professional design. (Under Review) 
 * Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creator Collaboration. 
