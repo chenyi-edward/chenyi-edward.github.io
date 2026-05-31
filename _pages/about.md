@@ -34,13 +34,13 @@ Key Research Areas
 
 * Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (Revise & Resubmit)
 * Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Revise & Resubmit)
-* Generative AI reshapes aesthetic exploration in professional design. (Under Review) 
-* Two Heads Better Than One? Uncovering the Effectiveness of Online Content Creator Collaboration. 
-* Are Friends of Friends Better Collaborators? How Third-Party Ties Affect Online Influencer Collaboration. 
-* Empowering Users in Digital Crowding: Dual Mechanisms of Dense Danmaku on User Engagement and Moderating Role of Display Control. 
+* The Asymmetric Impacts of Generative AI on Aesthetic Exploration in Professional Design. (Under Review) 
+* Two Heads Better Than One? The Impact of Peer Collaboration for Online Content Creators. (Under Review) 
+* Empowering Users in Digital Crowding: Dual Mechanisms of Dense Danmaku on User Engagement and Moderating Role of Display Control. (Under Review)
+* Are Friends of Friends Better Collaborators? How Third-Party Ties Affect the Performance of Digital Professional Collaborations. 
 * Too Polite to be Professional? Contingent Impact of Politeness on Hiring Decisions in Online Labor Markets. 
+* Differentiation vs Customisation: How Online Freelancers’ Bidding Strategy Affects Hiring Outcomes.
 * From Outrage to Silence: How Uncivil Comments Promote and Inhibit User Engagement. 
-* Standardisation vs Customisation: How Online Freelancers’ Bidding Strategy Affects Hiring Outcomes. 
 
 Teaching Interest
 ------
