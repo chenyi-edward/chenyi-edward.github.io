@@ -32,11 +32,11 @@ Key Research Areas
 
 **Working papers & work-in-progress projects**
 
-* Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (Revise & Resubmit)
+* Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (Accept)
 * Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Revise & Resubmit)
+* Empowering Users in Digital Crowding: Dual Mechanisms of Dense Danmaku on User Engagement and Moderating Role of Display Control. (Revise & Resubmit)
 * The Asymmetric Impacts of Generative AI on Aesthetic Exploration in Professional Design. (Under Review) 
 * Two Heads Better Than One? The Impact of Peer Collaboration for Online Content Creators. (Under Review) 
-* Empowering Users in Digital Crowding: Dual Mechanisms of Dense Danmaku on User Engagement and Moderating Role of Display Control. (Under Review)
 * Are Friends of Friends Better Collaborators? How Third-Party Ties Affect the Performance of Digital Professional Collaborations. 
 * Too Polite to be Professional? Contingent Impact of Politeness on Hiring Decisions in Online Labor Markets. 
 * Differentiation vs Customisation: How Online Freelancers’ Bidding Strategy Affects Hiring Outcomes.
