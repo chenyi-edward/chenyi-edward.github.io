@@ -33,7 +33,7 @@ Key Research Areas
 **Working papers & work-in-progress projects**
 
 * Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (Accept)
-* Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Revise & Resubmit)
+* Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Accept)
 * Empowering Users in Digital Crowding: Dual Mechanisms of Dense Danmaku on User Engagement and Moderating Role of Display Control. (Revise & Resubmit)
 * The Asymmetric Impacts of Generative AI on Aesthetic Exploration in Professional Design. (Under Review) 
 * Two Heads Better Than One? The Impact of Peer Collaboration for Online Content Creators. (Under Review) 
