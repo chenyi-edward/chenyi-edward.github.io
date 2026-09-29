@@ -41,6 +41,7 @@ Key Research Areas
 * Too Polite to be Professional? Contingent Impact of Politeness on Hiring Decisions in Online Labor Markets. 
 * Differentiation vs Customisation: How Online Freelancers’ Bidding Strategy Affects Hiring Outcomes.
 * From Outrage to Silence: How Uncivil Comments Promote and Inhibit User Engagement. 
+* Selling to Machine: How Agentic AI Reshape E-commerce Practice
 
 Teaching Interest
 ------
