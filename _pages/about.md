@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dr. [Yi Chen](https://chenyi-edward.github.io/cv/), an Assistant Professor at the [School of Business and Management](http://en.sbm.shisu.edu.cn/ChenYi/list.htm) in Shanghai International Studies University (SISU).
+I am Dr. [Yi Chen](https://chenyi-edward.github.io/cv/), an Assistant Professor at the School of Business and Management in Shanghai International Studies University.
 
 My research sits at the dynamic intersection of Information Systems (IS), Management, and Data Science. I am driven by a passion to understand the intricate—and often counter-intuitive—ways that online interactions, digital platforms, social networks, and emerging technologies redefine individual behavior and corporate strategy.
 
