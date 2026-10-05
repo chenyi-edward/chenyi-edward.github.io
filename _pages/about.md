@@ -1,25 +1,25 @@
 ---
 permalink: /
-title: "Hello! Welcome to My Homepage!"
+title: "Welcome — I’m Yi CHEN (陈怿)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am [Yi Chen](https://chenyi-edward.github.io/cv/), a scholar sitting at the dynamic intersection of Information Systems (IS), Management, and Business Analytics.
+I am [Yi Chen](https://chenyi-edward.github.io/cv/), a scholar interested in people, platforms, and technologies.
 
-I am driven by a passion to understand the intricate—and often counter-intuitive—ways that interpersonal interactions, digital platforms, social networks, and emerging technologies reshape individual behavior and corporate strategy.
+My research sits at the dynamic intersection of Information Systems (IS), Management, and Business Analytics, which attempts to understand how social networks, digital platforms, and emerging technologies shape individual behavior and organizational outcomes.
 
 Key Research Areas
 ------
-[My work](https://scholar.google.com/citations?user=cBipuy0AAAAJ&hl=en) is unified by a central, critical question: How do we navigate the complex human and economic paradoxes created by digital platforms and novel technologies? Specifically, I'm interested in the following research areas:
-- Online Interactions and Social Networks
-- Social Media, E-commerce, and Online Labor Markets
-- Generative AI (GenAI), FinTech, and Emerging Technology
-- Information Systems (IS) Strategy and Digital Organization
+[My work](https://scholar.google.com/citations?user=cBipuy0AAAAJ&hl=en) is unified by a central, critical question: How do we navigate the complex human and economic paradoxes created by digital platforms and novel technologies? Specifically, I focus on the following research areas:
+- Social Networks and Interactions
+- Digital Platforms and Markets
+- AI and Emerging Technologies
+- Interdisciplinary IS Research
 
-**Selected publications**
+**Publications**
 
 * <b>Chen, Y.</b>, Boh, W. F., & Mo, J. (2024). "Different types of online social exchanges: Effects on online sellers’ sales performance." <i>Information & Management.</i> 61(6):104003.
 * <b>Chen, Y.</b>, Boh, W. F., Wong, S.-S., & Shao, J. (2023). "Too Much of a Good Thing: Downsides of a Large Social Network and Moderating Effects of Political Skill." <i>Management and Organization Review.</i> 19(2):316-347.
@@ -32,8 +32,8 @@ Key Research Areas
 
 **Working papers & work-in-progress projects**
 
-* Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (Accept)
-* Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Accept)
+* Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms. (Accepted)
+* Cognitive Processing of Nonverbal Cues in Earnings Conference Calls: The Impact of CEO Vocal Emotion on Stock Market Reactions. (Accepted)
 * Empowering Users in Digital Crowding: Dual Mechanisms of Dense Danmaku on User Engagement and Moderating Role of Display Control. (Revise & Resubmit)
 * The Asymmetric Impacts of Generative AI on Aesthetic Exploration in Professional Design. (Under Review) 
 * Two Heads Better Than One? The Impact of Peer Collaboration for Online Content Creators. (Under Review) 
@@ -41,15 +41,15 @@ Key Research Areas
 * Too Polite to be Professional? Contingent Impact of Politeness on Hiring Decisions in Online Labor Markets. 
 * Differentiation vs Customisation: How Online Freelancers’ Bidding Strategy Affects Hiring Outcomes.
 * From Outrage to Silence: How Uncivil Comments Promote and Inhibit User Engagement. 
-* Selling to Machine: How Agentic AI Reshape E-commerce Practice
+* Selling to Machine: How Agentic AI Reshapes E-commerce Practice
 
 Teaching Interest
 ------
-My teaching philosophy emphasizes bridging rigorous theory with practical application, focusing on developing both analytical skills (e.g., quantitative research methods & programming language), managerial insights, and critical thinking. I instruct students in core Information Systems and Data Science topics, frequently integrating real-world case studies and hands-on software training to prepare them for the modern intelligent workplace.
+My teaching philosophy emphasizes bridging rigorous theory with practical application, focusing on developing analytical skills (e.g., quantitative research methods & programming language), managerial insights, and critical thinking. I instructed students in core Information Systems and Data Analytics topics, frequently integrating real-world case studies and hands-on software training to prepare them for the modern intelligent workplace.
 
 **Undergraduate-level teaching experience**
 - Information Resource Management
-- Big Data Analytics
+- Big Data Analysis
 - Java Programming
 - Business Programming (R Language)
 - An Introduction to Information Technology
