@@ -43,7 +43,7 @@ Key Research Areas
 * From Outrage to Silence: How Uncivil Comments Promote and Inhibit User Engagement. 
 * Selling to Machine: How Agentic AI Reshapes E-commerce Practice
 
-Teaching Interest
+Teaching
 ------
 My teaching philosophy emphasizes bridging rigorous theory with practical application, focusing on developing analytical skills (e.g., quantitative research methods & programming language), managerial insights, and critical thinking. I instructed students in core Information Systems and Data Analytics topics, frequently integrating real-world case studies and hands-on software training to prepare them for the modern intelligent workplace.
 
