@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome — I’m Yi CHEN (陈怿)"
+title: "Welcome to Chen Yi's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
