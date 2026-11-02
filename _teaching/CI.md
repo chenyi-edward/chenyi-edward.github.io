@@ -9,14 +9,30 @@ location: "Shanghai, China"
 course_level: "Undergraduate"
 course_order: 6
 course_theme: "Business problems · Data · Teamwork"
-course_summary: "Connect classroom knowledge with real datasets and management challenges through a team-based summer project."
-course_display_title: "Cognitive Internship"
+course_summary: "Two complementary projects develop skills in data collection, exploration, and applied analysis in real management settings."
+course_display_title: "Cognitive Internship I & II"
+layout: "teaching-portfolio"
+teaching_view: "course"
+course_style: "compact"
+course_eyebrow: "Applied projects"
+course_chinese_title: "认知实习 I 与 II"
+course_headline: "Cognitive Internship I & II"
+course_intro: "Two complementary project courses connect classroom knowledge with real management settings: collecting and exploring data in Internship I, and applying analytical models in Internship II. Both develop independent problem solving, collaboration, and clear communication of findings."
+course_themes_heading: "Two project strands"
+course_approach_heading: "Learning through a complete project."
+course_modules:
+  - title: "I · Data collection & exploration"
+    description: "Moving from a management question to a usable dataset through data acquisition, cleaning, descriptive analysis, and visualization."
+    topics:
+      - "Data acquisition"
+      - "Data quality"
+      - "Exploration & visualization"
+  - title: "II · Modeling & applied analysis"
+    description: "Selecting and evaluating models, interpreting results, and developing practical insights, with optional work in text annotation and machine learning."
+    topics:
+      - "Model evaluation"
+      - "Text classification (optional)"
+      - "Business insights"
 ---
 
-Cognitive Internship is designed to bridge theory and practice in the digital and intelligent (数智) era. Students will gain hands-on experience by applying knowledge from data analytics and other related courses to real-world datasets and complex management challenges. The course emphasizes the systematic analysis of problems and the delivery of strategic insights, focusing on developing essential skills in data analysis, problem-solving, and team collaboration to meet the high demands of the modern workplace.
-
-3 classes since 2023
-======
-
-Rank 1st in teaching evaluations for all 3 classes
-======
+Small teams work through an open-ended problem, supported by milestone discussions and feedback. Projects draw on digital-platform settings such as social media interaction and online gig work, emphasizing justified choices, a documented analytical process, and a coherent report and presentation.

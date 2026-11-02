@@ -11,6 +11,7 @@ course_order: 3
 course_theme: "R · Stata · Empirical research"
 course_summary: "Develop a reproducible workflow for cleaning, visualizing, and analyzing data for quantitative research."
 course_display_title: "Programming and Data Analysis"
+course_featured: true
 layout: "teaching-portfolio"
 teaching_view: "course"
 course_chinese_title: "编程与数据分析"

@@ -11,10 +11,34 @@ course_order: 5
 course_theme: "Logic · Objects · Programs"
 course_summary: "Build a foundation in object-oriented thinking and implement basic programs using Java."
 course_display_title: "Java Programming"
+layout: "teaching-portfolio"
+teaching_view: "course"
+course_style: "compact"
+course_eyebrow: "Programming foundations"
+course_chinese_title: "Java 程序设计"
+course_headline: "Java Programming"
+course_intro: "An introduction to programming logic and object-oriented design through Java. The course develops the ability to turn a simple problem into a working program, with emphasis on understanding code, modeling objects, and building small applications."
+course_approach_heading: "Understanding through practice."
+course_modules:
+  - title: "Programming logic"
+    description: "Expressing a problem as a sequence of clear, executable steps."
+    topics:
+      - "Variables & arrays"
+      - "Conditions & loops"
+      - "Methods"
+  - title: "Object-oriented thinking"
+    description: "Representing entities and their relationships through the structure of a program."
+    topics:
+      - "Classes & objects"
+      - "Encapsulation & inheritance"
+      - "Polymorphism & interfaces"
+  - title: "Building small programs"
+    description: "Bringing components together, checking their behavior, and explaining how the code works."
+    topics:
+      - "Object interaction"
+      - "Small project design"
+      - "AI-assisted debugging"
 ---
 
-Java Programming is an intensive, five-week module that provides a foundational introduction to Java Programming, emphasizing the core knowledge and skills required for modern development. Students will gain practical mastery of Object-Oriented Programming (OOP) principles, covering essential concepts like classes, objects, inheritance, and encapsulation. By the end of this module, students will be able to design and implement basic Java programs.
-
-4 classes since 2020
-======
+Short explanations and demonstrations lead into hands-on coding exercises and small projects. The emphasis is on understanding program behavior and solving problems independently, including checking and explaining code produced with AI assistance.
 

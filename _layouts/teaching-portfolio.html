@@ -23,7 +23,35 @@
 </header>
 <main id="main">
 {% if page.teaching_view == 'course' %}
-  <div class="breadcrumb wrap"><a href="{{ '/teaching/' | relative_url }}">Teaching</a><span aria-hidden="true">/</span><span>{{ page.title | escape }}</span></div>
+  <div class="breadcrumb wrap"><a href="{{ '/teaching/' | relative_url }}">Teaching</a><span aria-hidden="true">/</span><span>{{ page.course_display_title | default: page.title | escape }}</span></div>
+  {% if page.course_style == 'compact' %}
+  <section class="compact-hero wrap">
+    <p class="eyebrow">{{ page.course_eyebrow | default: 'Course overview' | escape }}</p>
+    <h1>{{ page.course_headline | default: page.course_display_title | default: page.title | escape | newline_to_br }}</h1>
+    {% if page.course_chinese_title %}<p class="compact-chinese" lang="zh">{{ page.course_chinese_title | escape }}</p>{% endif %}
+    <p class="compact-intro">{{ page.course_intro | escape }}</p>
+  </section>
+  <section class="compact-content wrap" aria-labelledby="compact-themes">
+    <div class="compact-themes">
+      <h2 id="compact-themes">{{ page.course_themes_heading | default: 'Core themes' | escape }}</h2>
+      <div class="compact-module-list">
+        {% for module in page.course_modules %}
+        <article class="compact-module">
+          <span class="compact-number" aria-hidden="true">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>
+          <div><h3>{{ module.title | escape }}</h3><p>{{ module.description | escape }}</p>
+            {% if module.topics.size > 0 %}<ul class="compact-topics" aria-label="Topics">{% for topic in module.topics %}<li>{{ topic | escape }}</li>{% endfor %}</ul>{% endif %}
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+    <aside class="compact-approach" aria-labelledby="compact-approach-heading">
+      <p class="eyebrow">Teaching approach</p>
+      <h2 id="compact-approach-heading">{{ page.course_approach_heading | escape }}</h2>
+      {{ content }}
+    </aside>
+  </section>
+  {% else %}
   <section class="portfolio-hero">
     <div class="wrap portfolio-hero-inner">
       <div>
@@ -64,6 +92,7 @@
       </div>
     </div>
   </section>
+  {% endif %}
   <div class="wrap portfolio-back"><a href="{{ '/teaching/' | relative_url }}" class="text-link">Explore other courses ↗</a></div>
 {% else %}
   <section class="catalog-hero wrap">

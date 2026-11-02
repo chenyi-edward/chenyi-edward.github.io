@@ -11,6 +11,7 @@ course_order: 2
 course_theme: "Business questions · Data mining · Analytical judgment"
 course_summary: "Explore business data, uncover patterns, and evaluate analytical models through practical cases."
 course_display_title: "Big Data Analytics"
+course_featured: true
 layout: "teaching-portfolio"
 teaching_view: "course"
 course_chinese_title: "大数据分析"

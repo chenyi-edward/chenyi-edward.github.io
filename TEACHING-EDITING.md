@@ -20,11 +20,14 @@ Commit the edit and wait for the GitHub Pages deployment to finish, then refresh
 
 ## Updating a course page
 
-The three redesigned course pages each have one content file:
+Each course page has one content file:
 
 - Information Resource Management: `_teaching/IRM.md`
 - Big Data Analytics: `_teaching/BDA.md`
 - Programming and Data Analysis: `_teaching/PDA.md`
+- Survey Research Methods: `_teaching/SRM.md`
+- Java Programming: `_teaching/Java.md`
+- Cognitive Internship I & II: `_teaching/CI.md`
 
 Open the relevant file on GitHub and click the pencil button. Edit:
 
@@ -55,7 +58,13 @@ Use spaces, not tabs, and preserve indentation. AI-related terms are listed like
 
 ## Reusing the detail-page design
 
-Another course can use the same design by adding `layout: teaching-portfolio`, `teaching_view: course`, and the `course_*` fields from one of the three redesigned pages to its Markdown file. Keep its original `title`, `permalink` and other metadata. Replace its body with its own concise teaching-approach description. Survey Research Methods, Java, and Cognitive Internship retain their existing detail-page content until you choose to adapt them.
+All six course pages use the shared design. IRM, BDA, and PDA use the fuller version with the overview diagram. Java, Survey Research Methods, and Cognitive Internship use a simpler version with a short introduction, a compact theme list, and one teaching-approach paragraph.
+
+The simpler pages use `course_style: compact`. Their `course_eyebrow` is the small label above the title; `course_themes_heading` is an optional heading above the theme list. They use the same `course_modules` structure as the fuller pages. A compact page needs no `course_scope_label`, `course_themes_intro`, or `course_approach_keywords`.
+
+To feature a course on the catalog, add `course_featured: true` to its Markdown metadata. This controls both the Featured course label and the dark card style. IRM, BDA, and PDA are featured; the others have standard cards. To remove the feature, remove that line or set it to `false`. The detail-page style is independent of the catalog feature.
+
+Another course can reuse either version by copying a similar course file and replacing its content. Keep or set its own `title`, `permalink`, and other collection metadata.
 
 A new course is another Markdown file in `_teaching/`, with the usual collection metadata and the card fields above. No separate catalog list or JavaScript edit is needed.
 
@@ -72,6 +81,8 @@ The content is rendered by GitHub Pages/Jekyll. It remains readable even when Ja
 
 ## Keeping the pages concise
 
-Use one short introduction, three themes with one sentence each, a few topic labels, and one or two short paragraphs about teaching. Administrative details such as credits, schedules, assessment rules, and course years are unnecessary here. Keep a neutral course voice.
+Use one short introduction, two or three themes with one sentence each, a few topic labels, and a short teaching-approach description. Administrative details such as credits, schedules, assessment rules, and course years are unnecessary here. Keep a neutral course voice. Internship I and II are presented together in `_teaching/CI.md`, with their distinct project focuses retained.
 
 The Big Data Analytics and Programming and Data Analysis drafts retain the supplied syllabi's main methods and tools. AI-related labels, code verification, and reproducibility are modest suggested updates; adjust or remove them to match the course as it develops.
+
+The simpler pages also retain the supplied materials' main focus. AI-assisted debugging in Java and checking AI-suggested claims in Survey Research Methods are modest proposed additions. Internship II's text annotation and machine learning remain optional, as in the project brief.
