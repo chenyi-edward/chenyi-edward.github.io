@@ -18,12 +18,20 @@ Use `Undergraduate` or `Postgraduate` for the filters. `course_order` controls c
 
 Commit the edit and wait for the GitHub Pages deployment to finish, then refresh the website.
 
-## Updating the Information Resource Management page
+## Updating a course page
 
-Edit `_teaching/IRM.md`:
+The three redesigned course pages each have one content file:
+
+- Information Resource Management: `_teaching/IRM.md`
+- Big Data Analytics: `_teaching/BDA.md`
+- Programming and Data Analysis: `_teaching/PDA.md`
+
+Open the relevant file on GitHub and click the pencil button. Edit:
 
 - `course_headline`: the main heading; `\n` inside its quoted value creates a line break.
 - `course_intro`: the short course description.
+- `course_scope_label`: the small label above the overview diagram.
+- `course_themes_intro`: the short sentence beside the course-themes heading.
 - `course_modules`: module titles, one-sentence descriptions and topic lists.
 - `course_approach_heading`: the heading beside the teaching-approach text.
 - `course_approach_keywords`: the short principle labels.
@@ -47,7 +55,7 @@ Use spaces, not tabs, and preserve indentation. AI-related terms are listed like
 
 ## Reusing the detail-page design
 
-Another course can use the same design by adding `layout: teaching-portfolio`, `teaching_view: course`, and the `course_*` fields from IRM to its Markdown file. Keep its original `title`, `permalink` and other metadata. Replace its body with its own concise teaching-approach description. The other course detail pages retain their existing content until you choose to adapt them.
+Another course can use the same design by adding `layout: teaching-portfolio`, `teaching_view: course`, and the `course_*` fields from one of the three redesigned pages to its Markdown file. Keep its original `title`, `permalink` and other metadata. Replace its body with its own concise teaching-approach description. Survey Research Methods, Java, and Cognitive Internship retain their existing detail-page content until you choose to adapt them.
 
 A new course is another Markdown file in `_teaching/`, with the usual collection metadata and the card fields above. No separate catalog list or JavaScript edit is needed.
 
@@ -61,3 +69,9 @@ Routine content updates do not require changing these files:
 - `_pages/teaching.html`: teaching catalog route.
 
 The content is rendered by GitHub Pages/Jekyll. It remains readable even when JavaScript is unavailable; JavaScript is used only for the course filters.
+
+## Keeping the pages concise
+
+Use one short introduction, three themes with one sentence each, a few topic labels, and one or two short paragraphs about teaching. Administrative details such as credits, schedules, assessment rules, and course years are unnecessary here. Keep a neutral course voice.
+
+The Big Data Analytics and Programming and Data Analysis drafts retain the supplied syllabi's main methods and tools. AI-related labels, code verification, and reproducibility are modest suggested updates; adjust or remove them to match the course as it develops.

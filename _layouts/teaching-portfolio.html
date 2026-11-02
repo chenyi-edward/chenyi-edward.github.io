@@ -34,7 +34,7 @@
         <div class="hero-actions"><a href="#journey" class="solid-link">Course themes ↓</a><a href="#philosophy" class="quiet-link">Teaching approach</a></div>
       </div>
       <div class="scope-map" aria-label="{{ page.course_modules.size }} connected course themes">
-        <p class="diagram-label">A broad view of information resources</p>
+        <p class="diagram-label">{{ page.course_scope_label | default: 'Connected course themes' | escape }}</p>
         {% for module in page.course_modules %}<div class="scope-band"><span>{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span><strong>{{ module.title | escape }}</strong></div>{% endfor %}
       </div>
     </div>
@@ -42,7 +42,7 @@
   <section class="wrap portfolio-section" id="journey">
     <div class="portfolio-section-heading">
       <div><p class="eyebrow">Course themes</p><h2>{% case page.course_modules.size %}{% when 3 %}Three connected perspectives.{% when 4 %}Four connected perspectives.{% else %}Connected perspectives.{% endcase %}</h2></div>
-      <p>From information itself to the technologies, projects, and organizations that put it to work.</p>
+      {% if page.course_themes_intro %}<p>{{ page.course_themes_intro | escape }}</p>{% endif %}
     </div>
     <div class="scope-grid">
       {% for module in page.course_modules %}

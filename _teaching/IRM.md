@@ -18,6 +18,8 @@ course_featured: true
 course_headline: "Information as a resource.\nManagement in context."
 course_intro: "Information Resource Management examines how information, systems, and related organizational resources are acquired, organized, coordinated, and governed. The course spans information content, information systems and IT project management, and enterprise information management, including security and ethics."
 course_approach_heading: "Concepts, cases, and a critical eye on technology."
+course_scope_label: "A broad view of information resources"
+course_themes_intro: "From information itself to the technologies, projects, and organizations that put it to work."
 course_modules:
   - title: "Information content management"
     description: "Acquiring, organizing, retrieving, and interpreting information, with attention to its quality, value, and use."
