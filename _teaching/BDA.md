@@ -6,6 +6,11 @@ permalink: /teaching/BDA
 venue: "Shanghai International Studies University, School of Business and Management"
 date: 2025-03-01
 location: "Shanghai, China"
+course_level: "Undergraduate"
+course_order: 2
+course_theme: "Data · Insight · Decisions"
+course_summary: "Use analytical methods and applied software to turn business data into evidence for management decisions."
+course_display_title: "Big Data Analytics"
 ---
 
 Big Data Analytics is a core course designed for upper-level business students to develop data literacy and analytical skills. Students will master the mainstream methods of Big Data analysis and mining and gain hands-on experience using software like RapidMiner Studio through various real-world case studies. The primary goal is to improve students' ability to strategically analyze and utilize complex data to solve sophisticated management decision-making problems, fostering rigorous thinking and keen data insight.
@@ -15,4 +20,3 @@ Big Data Analytics is a core course designed for upper-level business students t
 
 Rank 1st in teaching evaluations for the Spring 2024-2025 semester
 ======
-
