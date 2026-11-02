@@ -6,6 +6,11 @@ permalink: /teaching/PDA
 venue: "Shanghai International Studies University, School of Business and Management"
 date: 2024-03-01
 location: "Shanghai, China"
+course_level: "Postgraduate"
+course_order: 3
+course_theme: "R · Stata · Empirical research"
+course_summary: "Develop a reproducible workflow for cleaning, visualizing, and analyzing data for quantitative research."
+course_display_title: "Programming and Data Analysis"
 ---
 
 Programming and Data Analysis (STATA & R) is designed to build a strong foundation for quantitative research and practical data analysis. Students will master analytical tools, focusing on the R language and STATA, to bridge theory with hands-on experience. The curriculum covers everything from software fundamentals and programming syntax to data manipulation (cleaning, visualization) and applied econometrics (cross-sectional and panel data analysis). By the end of the course, students will be equipped to raise and solve problems, analyze complex data systematically, and evaluate academic research with critical thinking.
