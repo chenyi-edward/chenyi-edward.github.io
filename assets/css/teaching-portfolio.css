@@ -22,7 +22,7 @@ em{color:var(--teal);font-weight:400}
 .site-header nav a{padding:12px 0}
 .site-header nav [aria-current]{border-bottom:2px solid var(--teal);color:var(--teal)}
 .contact{font-size:12px;padding:10px 16px;border:1px solid var(--line);border-radius:50px}
-.catalog-hero{display:grid;grid-template-columns:1fr 230px;gap:60px;padding-block:86px 74px}
+.catalog-hero{display:grid;grid-template-columns:1fr 300px;gap:60px;padding-block:86px 74px}
 .catalog-hero h1{max-width:880px;font-size:clamp(40px,4.3vw,62px);margin-bottom:28px}
 .lead{font-size:18px;color:var(--muted);max-width:740px;line-height:1.75}
 .text-link{display:inline-flex;gap:25px;align-items:center;border-bottom:1px solid var(--teal);font-size:14px;padding-bottom:7px;font-weight:600;color:var(--teal)}
