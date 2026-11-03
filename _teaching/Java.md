@@ -37,7 +37,7 @@ course_modules:
     topics:
       - "Object interaction"
       - "Small project design"
-      - "AI-assisted debugging"
+      - "AI-assisted coding & debugging"
 ---
 
 Short explanations and demonstrations lead into hands-on coding exercises and small projects. The emphasis is on understanding program behavior and solving problems independently, including checking and explaining code produced with AI assistance.
