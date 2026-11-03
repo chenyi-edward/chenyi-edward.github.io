@@ -25,14 +25,18 @@ course_modules:
     description: "Moving from a management question to a usable dataset through data acquisition, cleaning, descriptive analysis, and visualization."
     topics:
       - "Data acquisition"
-      - "Data quality"
+      - "Data quality & processing"
       - "Exploration & visualization"
+      - "Business insights"
   - title: "II · Modeling & applied analysis"
     description: "Selecting and evaluating models, interpreting results, and developing practical insights, with optional work in text annotation and machine learning."
     topics:
-      - "Model evaluation"
-      - "Text classification (optional)"
-      - "Business insights"
+      - "Data preparation"
+      - "Model building & evaluation"
+      - "Machine learning"
+      - "Statistics & econometrics"
+      - "Interpretation & presentation"
+
 ---
 
 Small teams work through an open-ended problem, supported by milestone discussions and feedback. Projects draw on digital-platform settings such as social media interaction and online gig work, emphasizing justified choices, a documented analytical process, and a coherent report and presentation.
