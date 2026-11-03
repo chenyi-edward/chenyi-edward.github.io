@@ -28,7 +28,6 @@ course_modules:
       - "Exploration & visualization"
       - "Sampling & preprocessing"
       - "Feature preparation"
-      - "Data quality for AI"
   - title: "Patterns & prediction"
     description: "Using core data-mining methods to uncover relationships, identify groups, and predict outcomes in business settings."
     topics:
@@ -43,7 +42,6 @@ course_modules:
       - "Model evaluation"
       - "Prediction vs. explanation"
       - "Interpretability & bias"
-      - "Responsible use of AI"
       - "Communicating findings"
 course_approach_keywords:
   - "Business relevance"
