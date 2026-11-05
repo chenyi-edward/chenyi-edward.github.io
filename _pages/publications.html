@@ -12,9 +12,8 @@ permalink: /publications/
     <h2 id="papers-{{ category[0] | escape }}">{{ category[1].title | escape }}</h2>
     <div class="course-grid">
       {% for paper in category_papers %}
-      {% assign paper_key = paper.url | split: '/' | last %}
       {% assign paper_year = paper.date | date: '%Y' %}
-      {% assign hook = site.data.publication_hooks[paper_key] | default: paper.paper_lead %}
+      {% assign hook = paper.list_hook | default: paper.paper_lead | default: paper.excerpt %}
       <article>
         <a class="course-card publication-card" href="{{ paper.url | relative_url | escape }}">
           <p class="paper-venue">{{ paper.venue | escape }}{% unless paper.venue contains paper_year %} · {{ paper_year }}{% endunless %}</p>
